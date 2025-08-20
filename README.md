@@ -4,7 +4,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="135" alt="DP" src="https://raw.githubusercontent.com/subhankar-techs/subhankar-techs/main/dp.jpg">
+  <img align="right" width="135" alt="DP" src="https://raw.githubusercontent.com/subhankar-techs/subhankar-techs/main/dp.png">
   
   <a href="https://github.com/subhankar-techs?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/subhankar-techs?label=Followers&style=social" alt="followers-count">
