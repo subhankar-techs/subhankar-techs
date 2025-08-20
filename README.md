@@ -10,8 +10,8 @@
      <img align="right" src="https://img.shields.io/github/followers/subhankar-techs?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Subhankar Manna</h3>
-  <p>I am Full Stack Web Developer
-     Full Stack Developer | React, Node.js, Python | Building scalable web applications ⚡<br> 
+  <p>I am Full Stack Web Developer<br>
+     MERN Stack Developer | React, Node.js, Python | Building scalable web applications ⚡
   </P> 
 </div><br>
 
