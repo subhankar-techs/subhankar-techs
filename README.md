@@ -1,7 +1,8 @@
 
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/subhankar-techs/subhankar-techs/main/banner.png)](#)
-
+<img src="https://raw.githubusercontent.com/subhankar-techs/subhankar-techs/main/banner.png" 
+     alt="Banner"
+     style="max-width: 100%; height: auto; border-radius: 25px;">
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <img align="right" width="135" alt="dp" src="https://raw.githubusercontent.com/subhankar-techs/subhankar-techs/main/dp.png">
