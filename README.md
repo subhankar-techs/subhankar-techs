@@ -70,7 +70,7 @@
 <h2><i>My GitHub Stats</i></h2>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhankar-techs&theme=dark&show_icons=true&hide=issues,contribs&border_redius=0&include_all_commits=true" alt="subhankar-techs" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar-techs&layout=compact&border_radius=0&theme=dark" alt="Soumen3" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar-techs&layout=compact&border_radius=0&theme=dark" alt="subhankar-techs" height="139" />
 </p>
 
 <!----------------------------------- Profile View Section ------------------------------------>
